@@ -1,5 +1,5 @@
 # Excel Bike Sales Project
-In this project we analyze the different kinds of people who buy bikes to determine where the primary sales effort is best directed. 
+In this project we analyze the customers of bikes to determine where the primary sales effort is best directed. 
 
 ## Tools and technologies
 - **Excel**: Data cleaning, data exploration and creation of final dashboard
