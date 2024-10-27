@@ -9,12 +9,19 @@ In this project we analyze the different kinds of people who buy bikes to determ
 - Provide actionable insights to drive marketing strategies
 
 ## Data Sources
-- [Bike Buyers Dataset]()
+- [Bike Buyers Dataset](bike_buyers_dataset.xlsx)
 
 ## Analysis steps
 - **Data Cleaning**:
+  - Removed duplicates
+  - Replaced single letter values with full words
+  - Removed decimals
+  - Made age brackets
 - **Data Exploration**:
-- **Visualizations**: 
+  -  Made a clustered column chart based on gender, income and whether or not they purchased a bike
+  -  Made a line chart based on commute distance and number of bikes bought
+  -  Made a line chart based on age bracket and number of bikes bought
+  -  Made a dashboard with each chart interconnected with slicers based on marital status, region and education
 
 ## Key findings
 - Higher income means higher likelihood of buying a bike
@@ -22,12 +29,9 @@ In this project we analyze the different kinds of people who buy bikes to determ
 - Most customers have a commute of less than a mile 
 
 ## Visualizations
-**Average income per bike purchase**
+**Bike Sales Dashboard**
 
-**Bike purchases based on age bracket**
-
-**Bike purchases based on commute distance**
-
+![Bike Sales Dashboard](bike_sales_dashboard.png)
 
 ## Conclusion
 Focus marketing efforts on high income individuals, between the age of 31 and 55, that have a commute of less than a mile.
