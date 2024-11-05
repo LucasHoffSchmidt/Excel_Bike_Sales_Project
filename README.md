@@ -13,15 +13,24 @@ In this project we used Excel to analyse bike sales data.
 
 ## Analysis steps
 - **Data Cleaning**:
-  - Removed duplicates
-  - Replaced single letter values with full words
-  - Removed decimals
-  - Made age brackets
+  - Made sheets for cleaning, pivot tables and dashboard
+  - Removed duplicates through data, remove duplicates
+  - Replaced single letter values with full words using find and replace
+  - Changed format of Income column to currency and removed decimals
+  - Made age brackets using IF conditions
 - **Data Exploration**:
-  -  Made a clustered column chart based on gender, income and whether or not they purchased a bike
-  -  Made a line chart based on commute distance and number of bikes bought
-  -  Made a line chart based on age bracket and number of bikes bought
-  -  Made a dashboard with each chart interconnected with slicers based on marital status, region and education
+  -  Made a pivot table based on gender, average income and if the customer purchased a bike
+  -  Made a clustered column chart from the pivot table
+  -  Changed format of pivot table to numbers and removed decimals
+  -  Made a pivot table based on commute distance and number of bikes bought
+  -  Made a line chart from on the pivot table
+  -  Changed rows from 10+ Miles to More than 10 Miles
+  -  Made a pivot table based on age bracket, number of bikes bought and if the customer purchased a bike
+  -  Made a line chart from the pivot table
+  -  Made a bike sales dashboard with a header and the charts
+  -  Aligned the visuals to have even space between them
+  -  Made slicers on marital status, region and education
+  -  Connected each slicer to all charts through PivotTable Connections
 
 ## Key findings
 - Higher income means higher likelihood of buying a bike
