@@ -10,9 +10,6 @@ In this project we used Excel to analyse bike sales data, to determine the custo
 ## Technologies Used
 - **Excel**: Data cleaning, data exploration and creation of final dashboard.
 
-## Project Objective
-- Identify primary customers of bikes.
-
 ## Process
 - **Data Cleaning**:
   - Opened the excel dataset of bike buyers.   
