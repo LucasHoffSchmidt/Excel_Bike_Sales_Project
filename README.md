@@ -19,24 +19,23 @@ In this project we used Excel to analyse bike sales data, to determine the custo
 ## Process
 - **Data Cleaning**:
   - Opened the excel dataset of bike buyers.   
-  - Made sheets for cleaning, pivot tables and dashboard.
-  - Removed duplicates through data -> remove duplicates.
+  - Created separate sheets for cleaning, pivot tables and the dashboard.
+  - Removed duplicates using data -> remove duplicates.
   - Replaced single letter values with full words using find and replace.
   - Changed format of Income column to currency and removed decimals.
-  - Made age brackets using IF conditions.
+  - Created age brackets using IF conditions.
 - **Data Exploration and Dashboard Creation**:
-  - Made a pivot table based on gender, average income and if the customer purchased a bike.
-    - Made a clustered column chart from the pivot table.
-    - Changed format of pivot table to numbers and removed decimals.
-  - Made a pivot table based on commute distance and number of bikes bought.
-    - Made a line chart from the pivot table.
-    - Changed rows from 10+ Miles to More than 10 Miles.
-  - Made a pivot table based on age bracket, number of bikes bought and if the customer purchased a bike.
-    - Made a line chart from the pivot table.
-  -  Made a bike sales dashboard with a header and the charts made from the pivot tables.
-  -  Aligned the visuals to have even space between them.
-  -  Made slicers on marital status, region and education.
-  -  Connected each slicer to all charts through PivotTable Connections.
+  - Made a pivot table for gender, average income and if the person purchased a bike. 
+    - Created a clustered column chart from it.
+    - Formatted the table to numbers and removed decimals.
+  - Made a pivot table for commute distance and bikes purchased. 
+    - Made a line chart from it.
+    - Renamed "10+ Miles" to "More than 10 Miles".
+  - Made a pivot table for age bracket, bike purchases and if the person purchased a bike.
+    - Made a line chart from it.
+  -  Combined all charts into a dashboard with a header and even spacing. 
+  -  Added slicers for marital status, region and education.
+  -  Linked slicers to all charts using PivotTable Connections.
 
 ## Key findings
 - Higher income indicates higher likelihood of buying a bike.
