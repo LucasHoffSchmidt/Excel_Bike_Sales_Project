@@ -24,7 +24,7 @@ In this project we used Excel to analyse bike sales data, to determine the custo
   - Replaced single letter values with full words using find and replace.
   - Changed format of Income column to currency and removed decimals.
   - Made age brackets using IF conditions.
-- **Data Exploration**:
+- **Data Exploration and Dashboard Creation**:
   - Made a pivot table based on gender, average income and if the customer purchased a bike.
     - Made a clustered column chart from the pivot table.
     - Changed format of pivot table to numbers and removed decimals.
