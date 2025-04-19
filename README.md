@@ -13,9 +13,6 @@ In this project we used Excel to analyse bike sales data, to determine the custo
 ## Project Objective
 - Identify primary customers of bikes.
 
-## Data Source
-- [Bike Buyers Dataset](bike_buyers_dataset.xlsx)
-
 ## Process
 - **Data Cleaning**:
   - Opened the excel dataset of bike buyers.   
