@@ -7,7 +7,7 @@ In this project we used Excel to analyse bike sales data, to determine the custo
 - Bike sales excel project file: [Excel Project File](bike_sales_project.xlsx)
 - Other projects I have made: [Portfolio Website](https://lucashoffschmidt.github.io/)
 
-## Tools Used
+## Technologies Used
 - **Excel**: Data cleaning, data exploration and creation of final dashboard.
 
 ## Project Objective
